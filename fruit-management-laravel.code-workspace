@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../fruit-management-laravel"
+		},
+		{
+			"path": "../fruit-management-nextjs"
+		}
+	],
+	"settings": {}
+}
